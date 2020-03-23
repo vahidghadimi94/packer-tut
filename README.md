@@ -6,16 +6,16 @@ Packer is a tool for building identical machine images for multiple platforms fr
 
 2. Unzip the package and set the path variable in ~/.bashrc
 
-export PATH=$PATH:/path/to/packer
+     export PATH=$PATH:/path/to/packer
 
 3. Refresh terminal
 
-source ~/.bashrc
+     source ~/.bashrc
 
 
 4. Verify packer installation by executing the packer command.
 
-packer version
+     packer version
 
 
 # Step-by-step instructions
