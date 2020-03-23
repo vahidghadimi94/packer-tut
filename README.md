@@ -22,7 +22,7 @@ Packer is a tool for building identical machine images for multiple platforms fr
 Follow the steps below in order to build the AMI
 # Step 1: Prep Packer template
 my template is first-template.json
-# supplies the values for all the dynamic variables 
+# Step 2: supplies the values for all the dynamic variables 
 my var file is vars.json
-# Build AMI
+# Step 3: Build AMI
 packer build -var-file=vars.json first-template.json
