@@ -18,7 +18,7 @@ Packer is a tool for building identical machine images for multiple platforms fr
      packer version
 
 
-# Step-by-step instructions
+# Step-by-step instructions to build the AMI
 Follow the steps below in order to build the AMI
 # Step 1: Prep Packer template
 my template is first-template.json
